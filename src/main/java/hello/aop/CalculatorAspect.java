@@ -7,6 +7,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
+// TODO https://www.journaldev.com/2583/spring-aop-example-tutorial-aspect-advice-pointcut-joinpoint-annotations
+
 // weaving : It is the process of linking aspects with other objects to create the advised proxy objects
 // Weaving: COMPILE, LOAD TIME or RUNTIME
 
